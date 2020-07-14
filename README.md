@@ -19,14 +19,14 @@ The four most successful goal ranges are: Less than $1000, $1000-$4999, $35000-$
 
 ### Challenges and Difficulties Encountered
 
-The formulas needed to interpret and visualize the data for kickstarter campaigns is rather straightforward. The biggest difficultly would be the power of the conclusions that can be drawn from this data because the larger campaigns had smaller sample sizes. For example, campaigns with the goal of $15000 or more had 25 or fewer total projects. Further, these findings looked at outcomes by launch date for the parent category "theater" and at the subcategory outcomes based on "goal." The data pulled into these categories is international data, and therefore, does not take into account the wide range of situational differences arcoss countries
+The formulas needed to interpret and visualize the data for kickstarter campaigns is rather straightforward. The biggest difficultly would be the power of the conclusions that can be drawn from this data because the larger campaigns had smaller sample sizes. For example, campaigns with the goal of $15000 or more had 25 or fewer total projects. Further, these findings looked at outcomes by launch date for the parent category "theater" and at the subcategory outcomes based on "goal." The data pulled into these categories is international data, and therefore, does not take into account the wide range of situational differences across countries.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date? Two conclusions that can be drawn from about the Outcomes based on Launch Date 
 
-- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals? The conclusion 
 
-- What are some limitations of this dataset?
+- What are some limitations of this dataset? Some of the limitations of this data set are: 
 
-- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create? Some other tables and graphs that could be helpful for visualizing this data would be
