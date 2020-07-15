@@ -30,14 +30,18 @@ The formulas needed to interpret and visualize the data for kickstarter campaign
 
 ## Results
 
-- Two conclusions that can be drawn from about the Outcomes based on Launch Date is that May is the best and most popular time to launch a theater Kickstart campaign based on successful rates of fully funded campaigns. Another conclusion is that October could be a good time to launch aIn general, the end of the year has declining rates in number of campaigns launched, however, October does 
+- Two conclusions that can be drawn from about the Outcomes based on Launch Date is that May is the best time to lauch a campaign and that December is the worst time to launch a campaign. May has the most successful campaign launches (by percent and total number) and the lowest percent of failed campaigns. December has the highest percentage of failed campaigns and lowest percent of successful campaigns.
 
 <p align="center">
   <img src = "Resources/SuccessFailed_Percent_Launch_Date_Theater.png" width=450>
 </p>
 
-- What can you conclude about the Outcomes based on Goals? The conclusion 
+- The Outcomes based on Goals shows that 90% of the successful play campaigns had funding goals of under $10,000. However, due to the higher success rates for campaigns with larger goals, it can be concluded that those larger campaigns likely have a more strategic plan to achieve their funding.
 
-- What are some limitations of this dataset? Some of the limitations of this data set are: 
+<p align="center">
+  <img src = "Resources/Funding_Plays_Goal_Range.png" width=450>
+</p>
 
-- What are some other possible tables and/or graphs that we could create? Some other tables and graphs that could be helpful for visualizing this data would be
+- The limitations of this data set is that we do not have data on the type of advertising that was done for each of the campaigns. Kickstarters need to be shared and have greater visibility in order to get more investors. Therefore, having data on number of views on the campaign vs number of donors would inform the client of the percentage of people that were interested in the type of campaign. Additionally, having some metrics on marketing/advertising of the campaign would inform clients on best ways to publicize their campaigns in order to understand why certain campaigns by size and launch date were successful or failed.  
+
+-  Another visualization that would be helpful for visualizing this data would be to look at the percent successful by time of year and by size of the campaign. Futher, the client should also filter out the data by location and category of campaign in order to have the most relevant data and control for variables.
